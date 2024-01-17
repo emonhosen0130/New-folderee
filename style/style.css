@@ -339,9 +339,9 @@ nav li a {
 
 .save-up {
     display: flex;
-    
+
     border: 2px solid tomato;
-    
+
 }
 
 .form-nai {
@@ -369,7 +369,71 @@ nav li a {
 }
 
 .sub {
-  margin-left: 90px;
+    margin-left: 90px;
+}
+
+footer {
+    width: 1640px;
+    height: 502px;
+    border: 2px solid #fff;
+    margin-left: 60px;
+    margin-top: 50px;
+    background-color: rgba(19, 19, 24, 0.05);
+
+}
+
+.tola {
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+
+#tola-hed {
+    color: var(--Dark-01, #131318);
+    font-family: Mulish;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+
+}
+#tra{
+    color: #FF5400;
+}
+#leo {
+    text-align: center;
+    margin-top: 25px;
+
+}
+
+.footer-icon {
+    width: 174.322px;
+    height: 24px;
+    flex-shrink: 0;
+    gap:10px;
+    margin-left: 750px;
+    margin-top: 50px;
+    
+}
+#face{
+    margin-right: 15px;
+}
+#insta{
+    margin-right: 15px;
+}
+#twi{
+    margin-right: 15px;
+}
+#git{
+    margin-right: 15px;
+}
+.copyright{
+  margin-top: 25px;
+  margin-left: 450px;
+}
+#all{
+    margin-top: 10px;
+    margin-left: 250px;
 }
 
 
@@ -473,25 +537,29 @@ nav li a {
         height: 150px;
         margin-top: 150px;
     }
-/* .best-price {
+
+    /* .best-price {
     margin-left: 0px;
     width: 300px;
 } */
 
-.hotel-size {
-    margin-left: 0px;
-    width: 300px;
-}
+    .hotel-size {
+        margin-left: 0px;
+        width: 300px;
+    }
 
-.world {
-    width: 350px;
-}
+    .world {
+        width: 350px;
+    }
 
-.save-up{
-    width: 338px;
-    height: 300px;
-}
+    .save-up {
+        width: 338px;
+        height: 300px;
+    }
 
+    .best-price {
+        margin-left: 0px;
+    }
 
 
 
