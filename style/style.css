@@ -373,6 +373,19 @@ nav li a {
     margin-left: 90px;
 }
 
+.discount {
+    border: 2px solid tomato;
+    background-color: #FF5400;
+    color: #fff;
+    width: 250px;
+    height: 80px;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 50px;
+    flex-shrink: 0;
+    text-align: center;
+}
+
 footer {
     width: 1640px;
     height: 502px;
@@ -533,7 +546,7 @@ footer {
     }
 
     .malaindo {
-       display: none;
+        display: none;
     }
 
     #indo {
@@ -576,15 +589,18 @@ footer {
         flex-shrink: 0;
         margin-top: 200px;
     }
-.footer-icon{
-    margin-left: 10px;
-}
-.copyright{
-    display: block;
-    margin-left: 5px;
-}
-#all{
-    margin-left: 5px;
-}
+
+    .footer-icon {
+        margin-left: 10px;
+    }
+
+    .copyright {
+        display: block;
+        margin-left: 5px;
+    }
+
+    #all {
+        margin-left: 5px;
+    }
 
 }
